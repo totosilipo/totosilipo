@@ -1,16 +1,39 @@
-## Hi there 👋
+# Tomas Silipo
+### Data Science Student @ UBA (FCEN) | Data Science / Data Analytics & BI
 
-<!--
-**totosilipo/totosilipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de la Licenciatura en Ciencias de Datos en la Universidad de Buenos Aires (Exactas). Me interesa especialmente el análisis de datos, business intelligence y la construcción de soluciones basadas en datos para resolver problemas reales. Actualmente desarrollo proyectos utilizando Python, SQL, BigQuery y Power BI, trabajando sobre datasets reales relacionados con métricas de negocio y análisis de comportamiento.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **Portfolio**
+Acá podes encontrar los proyectos en los que formé parte hasta el momento, con una breve descripción de mi aporte en cada uno. Revisalos!
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](link)
+
+---
+
+###  **Sobre Mí**
+🎓 Estudiante de Ciencias de Datos en UBA
+📊 Enfocado en Data Analytics, SQL y visualización de datos
+🐍 Trabajo principalmente con Python y Pandas
+📈 Desarrollo dashboards y análisis en Power BI
+🧠 Interesado en Machine Learning y análisis predictivo
+🔍 Disfruto transformar datos crudos en insights accionables
+🎯 Buscando seguir creciendo profesionalmente en el área de dato
+
+---
+
+### **Stack Tecnológico**
+
+## 🛠️ Stack Tecnológico ### Lenguajes - Python - SQL ### Data & Analytics - Pandas - NumPy - BigQuery - Power BI ### Visualización - Matplotlib - Plotly ### Herramientas - Git - GitHub - Excel ---
+
+| **Lenguajes** | Python, Java, SQL |
+| **Herramientas** | Pandas, Numpy, Big Query, Excel |
+| **Visualización de datos** | Power BI, Matplotlib, Plotly |
+| **Herramientas varias** | Entorno Git |
+---
+
+### **Contactame**
+
+Linkedin: https://www.linkedin.com/in/tomas-silipo/
+Mail: tomassilipo@gmail.com
