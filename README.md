@@ -1,5 +1,5 @@
 # Tomas Silipo
-### Data Science Student @ UBA (FCEN) | Data Science / Data Analytics & BI
+### Data Science Student | UBA (FCEN) | Data Science / Data Analytics & BI
 
 Soy estudiante de la Licenciatura en Ciencias de Datos en la Universidad de Buenos Aires (Exactas). Me interesa especialmente el análisis de datos, business intelligence y la construcción de soluciones basadas en datos para resolver problemas reales. Actualmente desarrollo proyectos utilizando Python, SQL, BigQuery y Power BI, trabajando sobre datasets reales relacionados con métricas de negocio y análisis de comportamiento.
 
