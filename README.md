@@ -5,13 +5,6 @@ Soy estudiante de la Licenciatura en Ciencias de Datos en la Universidad de Buen
 
 ---
 
-### 🚀 **Portfolio**
-Acá podes encontrar los proyectos en los que formé parte hasta el momento, con una breve descripción de mi aporte en cada uno. Revisalos!
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](link)
-
----
-
 ###  **Sobre Mí**
 - 🎓 Estudiante de Ciencias de Datos en UBA
 - 📊 Enfocado en Data Analytics, SQL y visualización de datos
@@ -25,12 +18,18 @@ Acá podes encontrar los proyectos en los que formé parte hasta el momento, con
 
 ### **Stack Tecnológico**
 
-## 🛠️ Stack Tecnológico ### Lenguajes - Python - SQL ### Data & Analytics - Pandas - NumPy - BigQuery - Power BI ### Visualización - Matplotlib - Plotly ### Herramientas - Git - GitHub - Excel ---
-
 | **Lenguajes** | Python, Java, SQL |
+| :--- | :--- |
 | **Herramientas** | Pandas, Numpy, Big Query, Excel |
 | **Visualización de datos** | Power BI, Matplotlib, Plotly |
 | **Herramientas varias** | Entorno Git |
+---
+
+### **Portfolio**
+Acá podes encontrar los proyectos en los que formé parte hasta el momento, con una breve descripción de mi aporte en cada uno. Revisalos!
+
+[![Portfolio](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](link)
+
 ---
 
 ### **Contactame**
