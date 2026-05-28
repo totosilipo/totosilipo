@@ -13,13 +13,13 @@ Acá podes encontrar los proyectos en los que formé parte hasta el momento, con
 ---
 
 ###  **Sobre Mí**
-🎓 Estudiante de Ciencias de Datos en UBA
-📊 Enfocado en Data Analytics, SQL y visualización de datos
-🐍 Trabajo principalmente con Python y Pandas
-📈 Desarrollo dashboards y análisis en Power BI
-🧠 Interesado en Machine Learning y análisis predictivo
-🔍 Disfruto transformar datos crudos en insights accionables
-🎯 Buscando seguir creciendo profesionalmente en el área de dato
+- 🎓 Estudiante de Ciencias de Datos en UBA
+- 📊 Enfocado en Data Analytics, SQL y visualización de datos
+- 🐍 Trabajo principalmente con Python y Pandas
+- 📈 Desarrollo dashboards y análisis en Power BI
+- 🧠 Interesado en Machine Learning y análisis predictivo
+- 🔍 Disfruto transformar datos crudos en insights accionables
+- 🎯 Buscando seguir creciendo profesionalmente en el área de datos
 
 ---
 
