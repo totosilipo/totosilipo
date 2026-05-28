@@ -16,13 +16,14 @@ Soy estudiante de la Licenciatura en Ciencias de Datos en la Universidad de Buen
 
 ---
 
-### **Stack Tecnológico**
+### **Lenguajes, herramientas y conocimientos**
 
 | **Lenguajes** | Python, Java, SQL |
 | :--- | :--- |
 | **Herramientas** | Pandas, Numpy, Big Query, Excel |
 | **Visualización de datos** | Power BI, Matplotlib, Plotly |
 | **Herramientas varias** | Entorno Git |
+| **Orientación de los proyectos** | Modelado matemático, EDA, Machine Learning |
 ---
 
 ### **Portfolio**
