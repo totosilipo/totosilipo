@@ -11,7 +11,6 @@ Soy estudiante de la Licenciatura en Ciencias de Datos en la Universidad de Buen
 - 🐍 Trabajo principalmente con Python y Pandas
 - 📈 Desarrollo dashboards y análisis en Power BI
 - 🧠 Interesado en Machine Learning y análisis predictivo
-- 🔍 Disfruto transformar datos crudos en insights accionables
 - 🎯 Buscando seguir creciendo profesionalmente en el área de datos
 
 ---
