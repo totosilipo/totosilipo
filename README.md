@@ -12,7 +12,7 @@ Soy estudiante de la Licenciatura en Ciencias de Datos en la Universidad de Buen
 - 📈 Desarrollo dashboards y análisis en Power BI
 - 🧠 Interesado en Machine Learning y análisis predictivo
 - 🎯 Buscando seguir creciendo profesionalmente en el área de datos
-- Proyecto actual: https://github.com/totosilipo/statsim
+- 👨‍💻 Proyecto actual: https://github.com/totosilipo/statsim
 
 ---
 
